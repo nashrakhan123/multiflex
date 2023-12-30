@@ -1,0 +1,50 @@
+    .navbar-light .navbar-toggler {
+        background: #dc3545;
+    }
+    
+    .back-img {
+        width: 100%;
+        height: 100%;
+        background-image: url(https://www.pinkvilla.com/images/2023-10/1151432054_dunki.jpg);
+        background-position: center;
+        background-size: cover;
+    }
+    
+    .dunki h1 {
+        font-size: 130px;
+    }
+    
+    .movie-cards .card img {
+        width: 100%;
+        height: 500px;
+    }
+    
+    .movie-cards .card-title {
+        text-transform: uppercase;
+    }
+    
+    .movie-cards .card:hover {
+        background: black;
+        color: white;
+    }
+    
+    .icons i:hover {
+        color: rgb(216, 46, 46);
+    }
+    
+    .footer-nav ul li {
+        display: inline;
+    }
+    
+    .contact {
+        background: linear-gradient(rgb(204, 130, 130), rgb(98, 23, 23));
+    }
+    
+    .contact h1 {
+        font-size: 100px;
+    }
+    
+    .left {
+        padding-top: 100px;
+        padding-left: 30px;
+    }
